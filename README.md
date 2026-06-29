@@ -9,6 +9,9 @@ Computer Science student at UC Riverside graduating in 2027. I focus on fullstac
 
 ## Technical Skills
 Languages: Typescript · Javascript · C++ · Python · HTML · CSS · SQL
+
 Frameworks & Technologies: React · React Native · Next.js · TailwindCSS · Supabase · Firebase · MySQL · Expo · TensorFlow · ZeroMQ
+
 Developer Tools: Git · Github · Docker · Linux · Google Cloud Platform · CMake · GoogleTest · Jest
+
 Project Management: Agile · Scrum · Kanban · Jira · Github Projects
