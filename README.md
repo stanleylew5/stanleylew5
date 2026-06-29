@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello! I'm Stanley.
 
-<!--
-**stanleylew5/stanleylew5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UC Riverside graduating in 2027. I focus on fullstack software engineering for web and mobile apps. 
 
-Here are some ideas to get you started:
+## Currently working on
+- Autonomous vehicle technology for UCR's Collaborative Intelligence Systems Lab (CISL)
+- Website maintenance for AASHI, a Department of Defense (DoD) Center of Excellence at UCR
+- Exploring coursework on AI/NLP/ML topics to wrap up my CS degree at UCR 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+Languages: Typescript · Javascript · C++ · Python · HTML · CSS · SQL
+Frameworks & Technologies: React · React Native · Next.js · TailwindCSS · Supabase · Firebase · MySQL · Expo · TensorFlow · ZeroMQ
+Developer Tools: Git · Github · Docker · Linux · Google Cloud Platform · CMake · GoogleTest · Jest
+Project Management: Agile · Scrum · Kanban · Jira · Github Projects
