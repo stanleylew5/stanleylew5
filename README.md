@@ -1,6 +1,8 @@
 # Hello! I'm Stanley.
 
-Computer Science student at UC Riverside graduating in 2027. I focus on fullstack software engineering for web and mobile apps. In my free time I love hitting the gym, playing badminton, watching Formula 1, going hiking, and trying out new foods!  
+Computer Science student at UC Riverside graduating in 2027. I focus on fullstack software engineering for web and mobile apps. In my free time 
+
+I love hitting the gym, playing badminton, watching Formula 1, going hiking, and trying out new foods!  
 
 ## Currently working on
 - Autonomous vehicle technology for UCR's Collaborative Intelligence Systems Lab (CISL)
